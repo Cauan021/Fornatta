@@ -7,14 +7,16 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+
     <header>
-        <h1>FONATTA</h1>
-        <p>Feito com carinho, entregue com sabor</p>
+        <h1>FORNATTA</h1>
+        <p>Feito com carinho, entregue com sabor.</p>
 
         <div class="botoes">
-            <a href="login.php"></a>
+            <a href="login.php">Entrar</a>
+            <a href="cadastro.php">Cadastrar</a>
         </div>
     </header>
-    
+
 </body>
 </html>
